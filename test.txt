@@ -1,0 +1,10 @@
+https://blog.csdn.net/qq_37512323/article/details/80693445
+
+生成密钥：
+
+ssh -k eygen -t rsa -C "15655982512@163.com"
+
+c/Users/yucai/.ssh    (C:\Users\yucai\.ssh)
+
+我的Github库：
+https://github.com/python-yc/promgram_lover_xiaobai.git
